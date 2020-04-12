@@ -1,0 +1,11 @@
+body{
+	background: url(https://www.pixelstalk.net/wp-content/uploads/2016/05/Photo-desktop-gaming-wallpapers.jpg) no-repeat center center fixed;
+	background-size: cover;
+}
+#navbarSupportedContent{
+	font-family: 'PT Sans Narrow', sans-serif;
+}
+
+#dr1, #dr2{
+	text-align: center;
+}
